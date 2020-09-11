@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
-import 'package:sam_work/bgDecoration.dart';
+import 'package:sam_work/utilities/bgDecoration.dart';
 
 class SplashScreen extends StatefulWidget {
   static const String id = 'splashScreen';
